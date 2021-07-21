@@ -1,3 +1,12 @@
+Project2:
+AB Testing
+Applying AB testing to modeling users' preferences
+
+
+
+
+Project2: 
+
 This is the project about analysing the telecommunication data for better recommendation on this telecommunication data.
 
 In first step, I tried to do cleanings and analyisis to understand the dataset, identify the missing values & outliers if any using visual and quantitative methods to get a sense of the story it tells.
